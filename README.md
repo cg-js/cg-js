@@ -10,11 +10,11 @@ Para ficar sabendo dos próximos eventos entre no [grupo no meetup.com](http://w
 
 No [canal do slack](https://cg-js.slack.com), você pode tirar dúvidas e ajudar os membros, discutir sobre a linguagem e seus frameworks e ficar sabendo de encontros, ofertas de trabalhos e projetos para colaborar.
 
-:loudspeaker: Você pode solicitar seu convite para o grupo do slack [aqui](https://cg-js.herokuapp.com/);
+:loudspeaker: Você pode solicitar seu convite para o grupo do slack [aqui](https://cg-js.herokuapp.com/).
 
 ## Palestras
 
-Os membros também terão a oportunidade de palestrar nos Meetups. Se tiver uma boa ideia e quiser compartilhar só criar uma **Issue** :point_right: [aqui](https://github.com/cg-js/cg-js/issues) :point_left: no repositório propondo a palestra.
+Os membros também terão a oportunidade de palestrar nos Meetups. Se tiver uma boa ideia e quiser compartilhar só criar uma **Issue** :point_right: [aqui](https://github.com/cg-js/cg-js/issues/new?title=Quero%20Palestrar%20:)&labels=palestra) :point_left: no repositório propondo a palestra.
 
 ### JS4Girls
 
